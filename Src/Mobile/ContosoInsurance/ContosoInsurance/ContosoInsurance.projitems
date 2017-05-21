@@ -43,7 +43,7 @@
       <SubType>Code</SubType>
       <DependentUpon>IncidentDescription.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Views\IncidentDetailView.xaml.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Custom\IncidentDetailView.xaml.cs">
       <SubType>Code</SubType>
       <DependentUpon>IncidentDetailView.xaml</DependentUpon>
     </Compile>
@@ -72,7 +72,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\IncidentDetailView.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Custom\IncidentDetailView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
