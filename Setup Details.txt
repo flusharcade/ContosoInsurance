@@ -1,0 +1,11 @@
+Windows Store Setup:
+
+App Id:
+10e1a8d1-ac19-447b-bb8a-c02bb2329d6e
+
+App Secret
+Ki9AX5BRXqEuXeVc6vwGYkg
+
+Issuer Url Guid - 72f988bf-86f1-41af-91ab-2d7cd011db47
+
+Github Personal Access Token - 0bf4f27be74b7f1607b1a7624342bb7874bc61f3

@@ -18,11 +18,11 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>8.0</string>
+	<string>9.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>Contoso Insurance</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.microsoft.ContosoInsurance</string>
+	<string>com.flusharcade.testing</string>
 	<key>CFBundleVersion</key>
 	<string>1.1</string>
 	<key>CFBundleIconFiles</key>
@@ -108,8 +108,8 @@
 	</dict>
 	<key>UIBackgroundModes</key>
 	<array>
-		<string>remote-notification</string>
 		<string>location</string>
+		<string>remote-notification</string>
 	</array>
 	<key>UIRequiresFullScreen</key>
 	<string>YES</string>
@@ -121,5 +121,7 @@
 	<string>This app requires access to the photo library.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app requires access to the camera.</string>
+	<key>CFBundleName</key>
+	<string>Contoso Insurance</string>
 </dict>
 </plist>
