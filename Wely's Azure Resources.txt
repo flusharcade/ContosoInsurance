@@ -1,5 +1,0 @@
-http://contosoinsurancej26e3d-api.azurewebsites.net <http://contosoinsurancej26e3d-api.azurewebsites.net
-
-ServerKey: AAAAXi7GZmc:APA91bFGrz1_tQI2An12T-46YMp_HW_u6K8RFv8EjfNf6ErEL9bLeQT0Pq8V2zL-ZMbXi7c9SQ9ZZ0o7LqFPesb6p_EZJqyvDPwaduhiMunk-3u5Yzklz7yx3hPITLkR8bid_kLm9mDW
-
-Sender ID: 404511680103
